@@ -16,3 +16,6 @@ SolverCore = "ff4d7338-4cf1-434d-91df-b86cb86fb843"
 SolverParameters = "d076d87d-d1f9-4ea3-a44b-64b4cdd1e470"
 SolverTools = "b5612192-2639-5dc1-abfe-fbedd65fab29"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+SolverCore = "0.3"
